@@ -1,0 +1,29 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe C:\Users\WiX\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add -D vuepress
+
+PATH: 
+  D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\WiX\bin;C:\Users\WiX\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\local\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\WiX\bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;D:\Program Files\nodejs;D:\Program Files\qiniu\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Android;D:\Program Files\Git\cmd;D:\Program Files\apache-maven-3.5.2\bin;D:\Program Files\RedHat\java-1.8.0-openjdk-1.8.0.161-1\bin;D:\Program Files\RedHat\java-1.8.0-openjdk-1.8.0.161-1\bi;D:\Program Files\RedHat\java-1.8.0-openjdk-1.8.0.161-1\jre\bin;.;C:\WINDOWS\System32\OpenSSH;C:\Python27;D:\Program Files\Microsoft VS Code\bin;C:\Users\WiX\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Microsoft VS Code\bin;C:\Users\WiX\AppData\Roaming\npm;D:\Program Files (x86)\Egret\Egret Wing 3\bin;C:\Users\WiX\AppData\Local\GitHubDesktop\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;D:\l\Programs\Fiddler;D:\Program Files\Docker Toolbox;D:\Program Files\Git\usr\bin\vendor_perl;D:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  8.9.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.18.95.96:443
+      at Object._errnoException (util.js:1024:11)
+      at _exceptionWithHostPort (util.js:1046:20)
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
