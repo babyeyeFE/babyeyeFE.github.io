@@ -7,6 +7,7 @@
 ### Babyeye-Utils
 
 ## 文档
+[规范](guide/index.md)
 
 ### commit message 规范
 
