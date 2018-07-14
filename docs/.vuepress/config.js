@@ -15,8 +15,8 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: "auto",
 
-    "/guide/": {
-      sidebar: "auto"
-    }
+    // "/guide/": {
+    //   sidebar: "auto"
+    // }
   }
 }
