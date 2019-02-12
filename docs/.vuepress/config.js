@@ -12,11 +12,15 @@ module.exports = {
       { text: "代码规范", link: "/guide/" },
       { text: "公司首页", link: "https://www.babyeye.com/" }
     ],
-    displayAllHeaders: true,
-    sidebar: "auto",
-
-    "/guide/": {
-      sidebar: "auto"
-    }
+    displayAllHeaders: false,
+    sidebar: [
+      {
+        title: 'JavaScript 规范',
+        children: [
+          '/guide/js/language',
+          '/guide/js/code',
+        ]
+      }
+    ]
   }
 }
