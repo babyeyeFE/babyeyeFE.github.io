@@ -2,7 +2,7 @@
 home: true
 heroImage: /home.png
 actionText: 开始阅读 →
-actionLink: /js/
+actionLink: /guide/
 features:
 - title: 参考文档
   details: 前端代码规范是由童瞳前端团队整理的，基于 W3C、苹果开发者、Airbnb 等官方文档，并结合团队日常业务需求以及团队在日常开发过程中总结提炼出的经验而制定。
